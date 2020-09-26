@@ -1,2 +1,2 @@
 # janapintor.github.io
-github pages repository
+This is my github pages repository
