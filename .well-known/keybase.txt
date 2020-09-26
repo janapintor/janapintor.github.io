@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/janapintor
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://janapintor.github.io
+  * I am janapintor (https://keybase.io/janapintor) on keybase.
+  * I have a public key ASCcAcP-AP1Ub3RSPW6vW1t2oYwGhmYQC_CLwZ-8Krwswgo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01209c01c3fe00fd546f74523d6eaf5b5b76a18c068666100bf08bc19fbc2abc2cc20a",
+      "host": "keybase.io",
+      "kid": "01209c01c3fe00fd546f74523d6eaf5b5b76a18c068666100bf08bc19fbc2abc2cc20a",
+      "uid": "0b6c86dbc656645513b9fecc82488f19",
+      "username": "janapintor"
+    },
+    "merkle_root": {
+      "ctime": 1601154200,
+      "hash": "36b80ca788680a4685344035dd858423f0592ed9f0496bd05f8a7beabf110285965cf02743e221ee83a1653aa0c098049a5783e89551d21e6402184c9b0677d6",
+      "hash_meta": "d27d4a5b1c34816d99c97c98d48d555d1b709ef320df2f2d5970f3b351c33794",
+      "seqno": 17676862
+    },
+    "service": {
+      "entropy": "n1rsDBGgQH3lA+3i+JH+DwKP",
+      "hostname": "janapintor.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.5.1"
+  },
+  "ctime": 1601154231,
+  "expire_in": 504576000,
+  "prev": "32d4709dbfa9239df17c094e7e23786f21d55c826bd9315a0e6f613f96939703",
+  "seqno": 15,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgnAHD/gD9VG90Uj1ur1tbdqGMBoZmEAvwi8GfvCq8LMIKp3BheWxvYWTESpcCD8QgMtRwnb+pI53xfAlOfiN4byHVXIJr2TFaDm9hP5aTlwPEILsT3V/pXwjhd+p4iJJvWkOoeI3zELhBned/jdZK8F8EAgHCo3NpZ8RAHvXL9gyXbuH3T+3mYVdzLYYxPX2a7kWaA7D+mHOfC56pB2tW1D2vN91Z6F4KwqrclE4w0xipXqEfCNVJAcf0AahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIDBxzdFgyKEblr7P6rxujsqfW1zSNUF19V3zWQEngs85o3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/janapintor
+
+==================================================================
